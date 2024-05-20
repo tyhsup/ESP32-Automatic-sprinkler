@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tyhsup
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me --->sum998888@gmail.com
 
 <!---
