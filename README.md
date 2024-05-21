@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @tyhsup
-- 👀 I’m interested in IT 
-- 🌱 I’m currently learning python
-- 📫 How to reach me --->sum998888@gmail.com
-
-<!---
-tyhsup/tyhsup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Use PYTHON to control ESP32 with soil moisture meter/water level meter and other sensors to control the water valve switch to complete the automatic watering function. Cooperate with open source software such as BLYNK/THINGSPEAK to complete the mobile phone monitoring function.
