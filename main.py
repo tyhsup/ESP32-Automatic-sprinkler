@@ -5,18 +5,18 @@ import time,dht,BlynkLib,machine,statistics,gc
 import ESP32_set
 
 #thingspeak 設定
-mq_server = 'mqtt3.thingspeak.com'#thingspeak 伺服器
-mq_id = 'ExIUCCk8JgIsKjgaLzI5LRU' #thingspeak格式ID
-mq_topic= 'channels/' + '2032111' + '/publish'#thingspeak 伺服器topic格式
-mq_user = 'ExIUCCk8JgIsKjgaLzI5LRU'  #thingspeak格式帳號
-mq_pass = 'AgB2iyveE2Si2hcRdX8l7Jxe' #thingspeak格式密碼
+mq_server = 'thingspeak SERVER'#thingspeak SERVER
+mq_id = 'id number' #thingspeak格式ID
+mq_topic= 'channels/' + 'channel number' + '/publish'#thingspeak 伺服器topic格式
+mq_user = 'user account'  #thingspeak account
+mq_pass = 'password' #thingspeak password
 mqClient0 = MQTTClient(mq_id,mq_server,user=mq_user,password=mq_pass,keepalive=60)
 mqClient0.connect(False)
 
 
 #Blynk設定
-token ='lK8Kqo7Wqn30oQlInMfmashfv6YMamqR'# Blynk 權杖
-blynk = BlynkLib.Blynk(token)            # 取得 Blynk 物件
+token ='Blynk token'# Blynk token
+blynk = BlynkLib.Blynk(token)            # 取得 Blynk object
 
 
 #感測器及腳位設定
