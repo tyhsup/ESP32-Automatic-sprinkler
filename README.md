@@ -5,21 +5,23 @@ Use PYTHON to control ESP32 with soil moisture meter/water level meter and other
 Parts
 --------------------------
 
-###ESP32
+ESP32
 
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/ESP32.jpg)
 
 ###Capacitive Soil Moisture Sensor
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Capacitive Soil Moisture Sensor.jpg)
 
-###water Level sensor
+![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Capacitive-Soil-Moisture-Sensor.jpg)
+
+water Level sensor
+
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Water-Level-Sensor.jpg)
 
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Water-Level-Sensor-Pinout.jpg)
 
-###relay
+relay
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/relay.png)
 
-###water valve
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/water valve.jpg)
+water valve
+![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/photo/water-valve.jpg)
 
