@@ -25,5 +25,5 @@ relay
 
 water valve
 --------------------------
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/photo/water-valve.jpg)
+![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/water-valve.jpg)
 
