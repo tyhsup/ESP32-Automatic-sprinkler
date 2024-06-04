@@ -10,17 +10,16 @@ Parts
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/ESP32.jpg)
 
 ###Capacitive Soil Moisture Sensor
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Capacitive Soil Moisture Sensor.jfif)
+![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Capacitive Soil Moisture Sensor.jpg)
 
 ###water Level sensor
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Water-Level-Sensor.jpg)
 
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Water-Level-Sensor-Pinout.jpg)
 
-
 ###relay
 ![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/relay.png)
 
 ###water valve
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/water valve.jfif)
+![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/water valve.jpg)
 
