@@ -9,16 +9,16 @@ How to use this package
 define ESP32 Pin set & sensor function for Capacitive Soil Moisture Sensor/water Level sensor/DHT22
 
 Pin definition for this project
-soil_Moisture = 39       #soil sensor signal Pin<br/>
-dht_power = 32           #DHT22 power Pin<br/>
-water_Level = 36         #water Level sensor signal Pin<br/>
-water_valve = 33         #send signal to control relay<br/>
-d22 = 14                 #DHT22 data Pin<br/>
+soil_Moisture = 39       # soil sensor signal Pin<br/>
+dht_power = 32           # DHT22 power Pin<br/>
+water_Level = 36         # water Level sensor signal Pin<br/>
+water_valve = 33         # send signal to control relay<br/>
+d22 = 14                 # DHT22 data Pin<br/>
 EMI_Pin = 35<br/>        
 BASE_Pin = 22<br/>
-sen_max_V = 3.3          #soil sensor signal Max voltage<br/>    
-sen_min_V = 0.85         #soil sensor signal LOW voltage(in water)<br/>
-sen_sample = 200         #data sample for calculate median<br/>
+sen_max_V = 3.3          # soil sensor signal Max voltage<br/>    
+sen_min_V = 0.85         # soil sensor signal LOW voltage(in water)<br/>
+sen_sample = 200         # data sample for calculate median<br/>
 
 Parts
 ==========================
