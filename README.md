@@ -5,9 +5,10 @@ Use PYTHON to control ESP32 with soil moisture meter/water level meter and other
 How to use this package
 ==========================
 1.ESP32_set.py
+--------------------------
 define ESP32 Pin set & sensor function for Capacitive Soil Moisture Sensor/water Level sensor/DHT22
 
-#Pin definition for this project
+Pin definition for this project
 soil_Moisture = 39      #soil sensor signal Pin
 dht_power = 32          #DHT22 power Pin
 water_Level = 36        #water Level sensor signal Pin
