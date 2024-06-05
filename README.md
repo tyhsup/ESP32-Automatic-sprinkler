@@ -11,7 +11,7 @@ ESP32
 
 Capacitive Soil Moisture Sensor
 --------------------------
-![ESP32](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Capacitive-Soil-Moisture-Sensor.jpg)
+<img src="https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/Capacitive-Soil-Moisture-Sensor.jpg" width='30%' height='30%'>
 
 water Level sensor
 --------------------------
