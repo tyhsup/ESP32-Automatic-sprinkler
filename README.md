@@ -7,7 +7,7 @@ Parts
 
 ESP32
 --------------------------
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/ESP32.jpg#W50)
+![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/ESP32.jpg#W20)
 
 Capacitive Soil Moisture Sensor
 --------------------------
