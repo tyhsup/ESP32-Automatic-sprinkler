@@ -7,7 +7,7 @@ Parts
 
 ESP32
 --------------------------
-<img src="https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/ESP32.jpg" width='10%' height='10%'>
+<img src="https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/ESP32.jpg" width='30%' height='30%'>
 
 Capacitive Soil Moisture Sensor
 --------------------------
