@@ -21,9 +21,9 @@ water Level sensor
 
 relay
 --------------------------
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/relay.png)
+<img src="https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/relay.png" width='30%' height='30%'>
 
 water valve
 --------------------------
-![](https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/water-valve.jpg)
+<img src="https://github.com/tyhsup/ESP32-Automatic-sprinkler/raw/main/photo/water-valve.jpg" width='30%' height='30%'>
 
