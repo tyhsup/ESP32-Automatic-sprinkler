@@ -10,16 +10,16 @@ this file efine ESP32 Pin set & sensor function for Capacitive Soil Moisture Sen
 from this file you can declare "Pin_set" Class object<br/>
 
 EXP: input ESP32 GPIO Pin & parameter & sample number for improve soil Moisture sensor data<br/>
-soil_Moisture = 39         # soil sensor signal Pin<br/>
-dht_power = 32             # DHT22 power Pin<br/>
-water_Level = 36           # water Level sensor signal Pin<br/>
-water_valve = 33           # send signal to control relay<br/>
-d22 = 14                   # DHT22 data Pin<br/>
-EMI_Pin = 35<br/>        
+soil_Moisture = 39# soil sensor signal Pin<br/>
+dht_power = 32# DHT22 power Pin<br/>
+water_Level = 36# water Level sensor signal Pin<br/>
+water_valve = 33# send signal to control relay<br/>
+d22 = 14# DHT22 data Pin<br/>
+EMI_Pin = 35<br/>      
 BASE_Pin = 22<br/>
-sen_max_V = 3.3            # soil sensor signal Max voltage(transfer data from voltage to percentage)<br/>    
-sen_min_V = 0.85           # soil sensor signal LOW voltage((transfer data from voltage to percentage))<br/>
-sen_sample = 200           # soil_Moisture data sample for calculate median<br/>
+sen_max_V = 3.3# soil sensor signal Max voltage(transfer data from voltage to percentage)<br/>    
+sen_min_V = 0.85# soil sensor signal LOW voltage((transfer data from voltage to percentage))<br/>
+sen_sample = 200# soil_Moisture data sample for calculate median<br/>
 
 ESP32_S = ESP32_set.Pin_set(soil_Moisture,dht_power,water_Level,water_valve,d22,EMI_Pin,BASE_Pin,sen_max_V,sen_min_V,sen_sample)<br/>
 
