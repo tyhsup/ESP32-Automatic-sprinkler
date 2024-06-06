@@ -17,7 +17,7 @@ water_valve = 33# send signal to control relay<br/>
 d22 = 14# DHT22 data Pin<br/>
 EMI_Pin = 35<br/>      
 BASE_Pin = 22<br/>
-sen_max_V = 3.3# soil sensor signal Max voltage(transfer data from voltage to percentage)<br/>    
+sen_max_V = 3.3# soil sensor signal Max voltage(transfer data from voltage to percentage)<br/>
 sen_min_V = 0.85# soil sensor signal LOW voltage((transfer data from voltage to percentage))<br/>
 sen_sample = 200# soil_Moisture data sample for calculate median<br/>
 
