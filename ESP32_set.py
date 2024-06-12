@@ -27,18 +27,18 @@ class Pin_set:
         soil_moisture_list=[]
         i=0
         for i in range(self.sen_sample):#設定取樣範圍
-            soil_moisture_val=(((self.soil_M_pin.read()/4095*self.sen_max_V)-self.sen_min_V)*self.sen_coff)#將電壓轉換為乾度%, over:3.3,全濕:0.85V, 空氣約2.15v
+            soil_moisture_val=(((self.soil_M_pin.read()/4095*3.3)-self.sen_min_V)*self.sen_coff)#將電壓轉換為乾度%, over:3.3,全濕:0.85V, 空氣約2.15v
             soil_moisture_list.append(soil_moisture_val)
             time.sleep(0.01)
         soil_moisture_medi=statistics.median(soil_moisture_list)#計算中位數
         return soil_moisture_medi
     
     def water_Level(self):
-        water_Level_val=(self.water_L_pin.read()/4095*self.sen_max_V)#讀取water level sensor電壓值
+        water_Level_val=(self.water_L_pin.read()/4095*3.3)#讀取water level sensor電壓值
         return water_Level_val
     
     def EMI_Pin_val(self):
-        EMI_Pin_val=(self.EMI_pin.read()/4095*self.sen_max_V)
+        EMI_Pin_val=(self.EMI_pin.read()/4095*3.3)
         return EMI_Pin_val
     
     def water_valve_OC_controller(self):
